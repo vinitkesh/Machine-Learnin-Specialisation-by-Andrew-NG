@@ -39,9 +39,14 @@ $$ J(w,b):$$
 ### 3D Visualization of 3 contour map to 3d curve : $$curve :(w,b,J(w,b))$$
 - Notice the red dot's position wrt to the position of its corresponding point in the contour plot
 $$Cost=166008;(very-high)$$  
-![Alt text](image-5.png)
+
+![Alt text](image-5.png)  
+
 $$Cost=1738; (lower)$$  
+
 ![Alt text](image-7.png)
+
+
 
 ## Gradient Descent:
 ### An algorithm to minimise any function (also our cost function!)
@@ -58,6 +63,8 @@ $$Cost=1738; (lower)$$
 ![Alt text](image-9.png)  
 
 ### - Uproaching from left or right, we are always moving towards the minima.
+
+## Learning rate
 ---
 ## [Week 2:]()  Regression with multiple input variables
 ### Multiple Lin regression
