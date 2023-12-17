@@ -65,14 +65,36 @@ $$Cost=1738; (lower)$$
 ### - Uproaching from left or right, we are always moving towards the minima.
 
 ## Learning rate
----
-## [Week 2:]()  Regression with multiple input variables
+![learnig rate](image-12.png)
+
+### As we upproach gradient descent, the updatiion automatically takes small steps:
+![fixed learning rate](image-13.png)
+
+## Gradient Descent for Linear regression model
+
+![GD on lin reg](image-14.png)
+![Alt text](image-15.png)
+
+```md
+ISSUE: Ending up in local instead of GLobal minima
+#Soln: A squared error cost function is convex and will only have global minima(bowl shaped)
+```
+
+
+
+
+
+
+
+
+
+# [Week 2:]()  Regression with multiple input variables
 ### Multiple Lin regression
 ### Gradient descent in practise
 ### Training with gradient descent
 ### Gradient descent practice lab
 ---
-## [Week 3:]()  Classification
+# [Week 3:]()  Classification
 ## Classification with logistic regression
 ## Cost function of logistic regression
 ## Gradient Descent for logistic regression
