@@ -50,12 +50,13 @@ $$Cost=1738; (lower)$$
 
 
 ## Implementing Gradient descent algorithm:
-![Alt text](image-10.png)
-
+![Alt text](image-10.png)  
+![Alt text](image-11.png)
 
 ## Intuition of Gradient Descent Algo:
 
-![Alt text](image-9.png)
+![Alt text](image-9.png)  
+
 ### - Uproaching from left or right, we are always moving towards the minima.
 ---
 ## [Week 2:]()  Regression with multiple input variables
