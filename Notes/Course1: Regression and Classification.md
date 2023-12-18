@@ -75,10 +75,10 @@ $$Cost=1738; (lower)$$
 ![GD on lin reg](image-14.png)
 ![Alt text](image-15.png)
 
-```md
-ISSUE: Ending up in local instead of GLobal minima
-#Soln: A squared error cost function is convex and will only have global minima(bowl shaped)
-```
+> ### ISSUE: Ending up in local instead of GLobal minima  
+> ### Soln: A squared error cost function is convex and will only have global minima(bowl shaped)
+
+## F
 
 
 
@@ -87,16 +87,52 @@ ISSUE: Ending up in local instead of GLobal minima
 
 
 
-
-# [Week 2:]()  Regression with multiple input variables
-### Multiple Lin regression
-### Gradient descent in practise
-### Training with gradient descent
-### Gradient descent practice lab
 ---
-# [Week 3:]()  Classification
-## Classification with logistic regression
-## Cost function of logistic regression
-## Gradient Descent for logistic regression
-## Problem of overfitting
-## Practice lab : logistic regression
+---
+<h1 style="color:Orange;">Week 2: Regression with multiple input variables</h1>  
+
+
+## 1. Vectorization part 1
+## 2. Vectorization part 2
+## 3. Ungraded Lab: Optional lab: Python, NumPy and vectorization
+## 4. Gradient descent for multiple linear regression
+## 5. Ungraded Lab: Optional Lab: Multiple linear regression
+## 6. Feature scaling part 1
+## 7. Feature scaling part 2
+## 8. Checking gradient descent for convergence
+## 9. Choosing the learning rate
+## 10. Ungraded Lab: Optional Lab: Feature scaling and learning rate
+## 11. Feature engineering
+## 12. Polynomial regression
+## 13. Ungraded Lab: Optional lab: Feature engineering and Polynomial regression
+## 14. Ungraded Lab: Optional lab: Linear regression with scikit-learn
+
+
+
+
+
+
+---
+ <h1 style="color:Orange;">Week 3: Classification</h1> 
+
+## - 1. Ungraded Lab: Optional lab: Classification
+## - 2. Video: Logistic regression
+## - 3. Ungraded Lab: Optional lab: Sigmoid function and logistic regression
+## - 4. Video: Decision boundary
+## - 5. Ungraded Lab: Optional lab: Decision boundary
+## - 6. Video: Cost function for logistic regression
+## - 7. Ungraded Lab: Optional lab: Logistic loss
+## - 8. Video: Simplified Cost Function for Logistic Regression
+## - 9. Ungraded Lab: Optional lab: Cost function for logistic regression
+## - 10. Video: Gradient Descent Implementation
+## - 11. Ungraded Lab: Optional lab: Gradient descent for logistic regression
+## - 12. Ungraded Lab: Optional lab: Logistic regression with scikit-learn
+## - 13. Video: The problem of overfitting
+## - 14. Video: Addressing overfitting
+## - 15. Ungraded Lab: Optional lab: Overfitting
+## - 16. Video: Cost function with regularization
+## - 17. Video: Regularized linear regression
+## - 18. Video: Regularized logistic regression
+## - 19. Ungraded Lab: Optional lab: Regularization
+## - 20. Reading: [IMPORTANT] Reminder about end of access to Lab Notebooks
+## - 21. Video: Andrew Ng and Fei-Fei Li on Human-Centered AI
