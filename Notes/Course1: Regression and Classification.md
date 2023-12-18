@@ -91,10 +91,12 @@ $$Cost=1738; (lower)$$
 
 
 
-
+///////////////////////////////////////////////////////////
 ---
 ---
-<h1 style="color:Orange;">Week 2: Regression with multiple input variables</h1>  
+<a style="color:Orange;" ><h1 style="color:Orange;">
+    Week 2: Regression with multiple input variables
+</h1></a>  
 
 ## 0. Multiple Features
 - Now we are estimating many things from the same set of input
