@@ -115,24 +115,24 @@ $$Cost=1738; (lower)$$
 ---
  <h1 style="color:Orange;">Week 3: Classification</h1> 
 
-## - 1. Ungraded Lab: Optional lab: Classification
-## - 2. Video: Logistic regression
-## - 3. Ungraded Lab: Optional lab: Sigmoid function and logistic regression
-## - 4. Video: Decision boundary
-## - 5. Ungraded Lab: Optional lab: Decision boundary
-## - 6. Video: Cost function for logistic regression
-## - 7. Ungraded Lab: Optional lab: Logistic loss
-## - 8. Video: Simplified Cost Function for Logistic Regression
-## - 9. Ungraded Lab: Optional lab: Cost function for logistic regression
-## - 10. Video: Gradient Descent Implementation
-## - 11. Ungraded Lab: Optional lab: Gradient descent for logistic regression
-## - 12. Ungraded Lab: Optional lab: Logistic regression with scikit-learn
-## - 13. Video: The problem of overfitting
-## - 14. Video: Addressing overfitting
-## - 15. Ungraded Lab: Optional lab: Overfitting
-## - 16. Video: Cost function with regularization
-## - 17. Video: Regularized linear regression
-## - 18. Video: Regularized logistic regression
-## - 19. Ungraded Lab: Optional lab: Regularization
-## - 20. Reading: [IMPORTANT] Reminder about end of access to Lab Notebooks
-## - 21. Video: Andrew Ng and Fei-Fei Li on Human-Centered AI
+## 1. Ungraded Lab: Optional lab: Classification
+## 2. Video: Logistic regression
+## 3. Ungraded Lab: Optional lab: Sigmoid function and logistic regression
+## 4. Video: Decision boundary
+## 5. Ungraded Lab: Optional lab: Decision boundary
+## 6. Video: Cost function for logistic regression
+## 7. Ungraded Lab: Optional lab: Logistic loss
+## 8. Video: Simplified Cost Function for Logistic Regression
+## 9. Ungraded Lab: Optional lab: Cost function for logistic regression
+## 10. Video: Gradient Descent Implementation
+## 11. Ungraded Lab: Optional lab: Gradient descent for logistic regression
+## 12. Ungraded Lab: Optional lab: Logistic regression with scikit-learn
+## 13. Video: The problem of overfitting
+## 14. Video: Addressing overfitting
+## 15. Ungraded Lab: Optional lab: Overfitting
+## 16. Video: Cost function with regularization
+## 17. Video: Regularized linear regression
+## 18. Video: Regularized logistic regression
+## 19. Ungraded Lab: Optional lab: Regularization
+## 20. Reading: [IMPORTANT] Reminder about end of access to Lab Notebooks
+## 21. Video: Andrew Ng and Fei-Fei Li on Human-Centered AI
