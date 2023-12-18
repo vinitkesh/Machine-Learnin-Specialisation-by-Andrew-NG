@@ -127,7 +127,17 @@ f = np.dot(w,x)+b
 
 
 ## 2. Vectorization part 2
+
+### - Vectorization uses computesr specialised hardware to multiple and add very quickly. It uses parallel processing hardware.
+### - Gradient Descent using vectorization :
+(image-24.png)
+
 ## 3. Ungraded Lab 1: Optional lab: Python, NumPy and vectorization
+
+### [Open lab Jupyter Notebook](https://github.com/vinitkesh/Machine-Learnin-Specialisation-by-Andrew-NG/blob/main/Labs/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
+
+
+
 ## 4. Gradient descent for multiple linear regression
 ## 5. Ungraded Lab 2: Optional Lab: Multiple linear regression
 ## 6. Feature scaling part 1
