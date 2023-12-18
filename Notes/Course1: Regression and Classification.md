@@ -78,7 +78,12 @@ $$Cost=1738; (lower)$$
 > ### ISSUE: Ending up in local instead of GLobal minima  
 > ### Soln: A squared error cost function is convex and will only have global minima(bowl shaped)
 
-## F
+## Running Gradient Descent on Lin Reg:
+![Alt text](image-16.png)  
+- This is type of graf. desc. is called as BATCH grad. Desc.
+
+
+![Bathc Grad discent](image-17.png)
 
 
 
@@ -91,21 +96,62 @@ $$Cost=1738; (lower)$$
 ---
 <h1 style="color:Orange;">Week 2: Regression with multiple input variables</h1>  
 
+## 0. Multiple Features
+- Now we are estimating many things from the same set of input
+- More variables
+![Multiple variable model](image-18.png)
+
+- For n features the model will look like this :
+![n var func ](image-19.png)  
+### Using vectors to represent variables and parameters :
+
+![Multiple linear regression](image-20.png)
+---
+
 
 ## 1. Vectorization part 1
+
+
+![Alt text](image-21.png)
+
+![Alt text](image-22.png)
+
+## Using vectorization , the calculation is much faster:
+
+![Vectorization](image-23.png)
+
+```python
+f = np.dot(w,x)+b
+```
+
+
+
 ## 2. Vectorization part 2
-## 3. Ungraded Lab: Optional lab: Python, NumPy and vectorization
+## 3. Ungraded Lab 1: Optional lab: Python, NumPy and vectorization
 ## 4. Gradient descent for multiple linear regression
-## 5. Ungraded Lab: Optional Lab: Multiple linear regression
+## 5. Ungraded Lab 2: Optional Lab: Multiple linear regression
 ## 6. Feature scaling part 1
 ## 7. Feature scaling part 2
 ## 8. Checking gradient descent for convergence
 ## 9. Choosing the learning rate
-## 10. Ungraded Lab: Optional Lab: Feature scaling and learning rate
+## 10. Ungraded Lab 3: Optional Lab: Feature scaling and learning rate
 ## 11. Feature engineering
 ## 12. Polynomial regression
-## 13. Ungraded Lab: Optional lab: Feature engineering and Polynomial regression
-## 14. Ungraded Lab: Optional lab: Linear regression with scikit-learn
+## 13. Ungraded Lab 4 : Optional lab: Feature engineering and Polynomial regression
+## 14. Ungraded Lab 5: Optional lab: Linear regression with scikit-learn
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
