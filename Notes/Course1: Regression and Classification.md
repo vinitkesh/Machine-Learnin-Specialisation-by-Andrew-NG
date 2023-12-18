@@ -9,7 +9,7 @@
 ## 1. Overview of ML
 ## 2. Sup vs UnSup ML
 
-## Optional lab
+## Optional labf
 
 ![image](https://github.com/vinitkesh/Machine-Learnin-Specialisation-by-Andrew-NG/assets/139075087/0f63ee0a-9176-4781-a523-ac3772446fc9)
 - Numpy is an important library that will be used a lot
